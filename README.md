@@ -13,17 +13,30 @@ In this project i wanted to put my all Web Developing knowledge which i learned 
 
 * MAIN PAGES
   
-    * HOME
+   * HOME
       
      ![HomePage](assets/images/03_EN_HomeSide.jpg)
+
 
   * GEMS
     
       ![GemsPage](assets/images/04_EN_GemsSide.jpg)
 
+
   * ABOUT
     
       ![AboutPage](assets/images/05_EN_AboutSide.jpg)
+
+
+  * CHANGE MODE
+    
+      ![ChangeMode](assets/images/06_EN_ChangeMode.jpg)
+
+
+  * CHANGE LANGUAGE
+    
+      ![ChangeLanguage](assets/images/07_EN_ChangeLanguage.jpg)
+
 
 With this project I learned how to put together Frontend and Backend, also was my first experience with Spring Boot. I would like to add in the app more features like:
   * Authentication
@@ -90,6 +103,11 @@ With this project I learned how to put together Frontend and Backend, also was m
 ![CreateGem_04](assets/images/09_EN_CreateGem_04.jpg)
 
 ![CreateGem_05](assets/images/09_EN_CreateGem_05.jpg)
+
+
+For testing purposes can be added maximal 11 records. If it will be tried to add more records, the warning popup will be shown up.
+
+![MaximalWarning](assets/images/09_EN_CreateGem_06_Maximal.jpg)
 
 ### Edit Record
 ![EditGem_01](assets/images/10_EN_EditGem_01.jpg)
